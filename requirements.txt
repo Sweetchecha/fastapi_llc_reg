@@ -17,3 +17,5 @@ selenium==4.8.2
 
 # Для работы с переменными окружения
 python-dotenv==0.21.0
+
+webdriver-manager
